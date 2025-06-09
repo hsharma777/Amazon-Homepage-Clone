@@ -25,7 +25,8 @@ Responsive Navigation Bar:
   - Multiple informational link sections
   - Region and language selection fields
   - Copyright
-TECH USED-
+
+TECH USED
 - HTML5 for structure
 - CSS3 for styling
 - Font Awesome for icons 
